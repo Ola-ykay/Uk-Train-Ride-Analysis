@@ -1,8 +1,8 @@
-# UK Train Ride Analysis
+## UK Train Ride Analysis
 
 This project focuses on analyzing UK train ride data using **Power BI** to extract key insights that can help improve train services and customer experience. The dashboard presents a detailed analysis of ticket sales, payment methods, journey performance, delays, and refund requests.
 
-## Insights Delivered:
+### Insights Delivered:
 - **Total Sales by Purchase Type**: Breakdown of ticket sales based on online, kiosk, and station purchases.
 - **Payment Method Distribution**: Analyzed the most common payment methods used for ticket purchases.
 - **Railcard Usage & Ticket Price Trends**: Insight into railcard usage and distribution of ticket prices.
@@ -13,10 +13,12 @@ This project focuses on analyzing UK train ride data using **Power BI** to extra
 - **Comparison of Planned vs. Actual Arrival Times**: Showed deviations between scheduled and actual arrival times.
 - **Refund Requests Analysis**: Analyzed the number and reasons for refund requests.
 
-## Tools Used:
+### Tools Used:
 - **Power BI** for creating interactive dashboards and reports.
 - **DAX** (Data Analysis Expressions) for complex calculations and data modeling.
 - **Power Query** for data cleaning and transformation.
 
-## Objective:
+### Objective:
 To generate actionable insights that help optimize train services, improve customer satisfaction, and drive data-driven decisions.
+### Dashboard Preview
+![Coffee Sales Analysis](https://github.com/Ola-ykay/Uk-Train-Ride-Analysis/blob/main/uk_train_dashboard.png)
